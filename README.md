@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 <!--
 **quanSadie/quanSadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About myself: 
--  🔭 I am a software engineering student at FPT University 
+About : 
+-  🔭 Backend Developer
 -  📫 How to reach me: quanrealvn@gmail.com 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanSadie&theme=monokai)
