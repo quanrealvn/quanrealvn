@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 About : 
 -  🔭 Backend Developer
--  📫 How to reach me: quanrealvn@gmail.com 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanSadie&theme=monokai)
 
 
