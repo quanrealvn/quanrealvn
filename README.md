@@ -1,21 +1,3 @@
-###  👋
-
-<!--
-**quanSadie/quanSadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-About : 
--  🔭 Backend Developer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanSadie&theme=monokai)
 
 
@@ -32,7 +14,7 @@ Languages and tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,postgres,bootstrap,c,spring,jquery,dotnet,docker,sap" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,postgres,c,dotnet,docker,azure" />
      </a>
 </p>
 
