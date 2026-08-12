@@ -14,7 +14,7 @@ Languages and tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,postgres,c,dotnet,docker,csharp,azure" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,postgres,c,dotnet,docker,azure" />
      </a>
 </p>
 
